@@ -1,0 +1,1 @@
+protoc --plugin=protoc-gen-dart=./bin/protoc-gen-dart --dart_out=./out/dart ./proto/*.proto

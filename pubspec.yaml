@@ -1,0 +1,9 @@
+name: zergserver
+description: a simple dart server.
+environment:
+  sdk: '>=1.13.0 <2.0.0'
+dependencies:
+  fixnum: ^0.10.5
+  path: ^1.0.0
+  protobuf: ^0.5.2
+dev_dependencies:
